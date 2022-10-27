@@ -1,0 +1,22 @@
+.caja{
+   
+    border-radius:0px;
+    margin-top: 70px;
+    margin-right: 250px;
+    margin-bottom: 20px;
+    margin-left: 180px;
+    background:#FFFFFF;
+
+}
+
+.cuerpotexto{
+  border-top: 1px solid black;
+  border-radius:0px;
+  margin-top: 20px;
+  margin-right: 50px;
+  margin-bottom: 20px;
+  margin-left: 50px;
+  background:#FFFFFF;
+  border-bottom: 1px solid black;
+
+}
