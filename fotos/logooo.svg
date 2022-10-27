@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_1" data-name="Capa 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 566.93 566.93">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #95c11f;
+        font-family: Arial-BoldMT, Arial;
+        font-size: 91.35px;
+      }
+
+      .cls-2 {
+        fill: #063;
+      }
+
+      .cls-3 {
+        fill: none;
+        stroke: #063;
+        stroke-miterlimit: 10;
+        stroke-width: 17px;
+      }
+    </style>
+  </defs>
+  <g>
+    <path class="cls-3" d="M451.12,496.11c-46.37,36.57-104.99,58.4-168.72,58.4-150.26,0-272.07-121.35-272.07-271.05S132.14,12.42,282.4,12.42s272.07,121.35,272.07,271.05c0,31.54-5.37,61.69-15.31,89.85H119.59l-.05-.09c-14.8-26.59-23.23-57.2-23.23-89.76,0-102.38,83.31-185.38,186.08-185.38s186.08,83,186.08,185.38c0,9-.64,17.85-1.89,26.5"/>
+    <polygon class="cls-2" points="406.59 495.74 447.21 499.27 443.66 539.88 462.4 524.15 465.94 483.55 425.33 480 406.59 495.74"/>
+  </g>
+  <text class="cls-1" transform="translate(132.89 236.62)"><tspan x="0" y="0"> </tspan></text>
+  <text class="cls-1" transform="translate(158.37 236.62) scale(.7)"><tspan x="0" y="0">DISEÑO</tspan></text>
+  <text class="cls-1" transform="translate(88.36 306.3)"><tspan x="0" y="0"> </tspan></text>
+  <text class="cls-1" transform="translate(113.83 306.3) scale(.7)"><tspan x="0" y="0">CIRCULAR</tspan></text>
+</svg>
